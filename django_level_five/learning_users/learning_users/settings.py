@@ -28,7 +28,7 @@ SECRET_KEY = 'cqoc#h+j97#-vskk(prmqow&(-7r9(b_f^3^$tfr5wmsc4)9hm'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['opharikesh.pythonanywhere.com',]
 
 
 # Application definition
